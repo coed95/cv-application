@@ -64,7 +64,7 @@ npm run preview
 
 A live version of the application is available here:
 
-[Live Demo](DEPLOYMENT_URL)
+[Live Demo](https://coed95.github.io/cv-application/)
 
 ## Credits
 
